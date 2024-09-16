@@ -1,6 +1,6 @@
 ## Ссылка на проект
 
-[Дашборд по пользовательским событиям для агрегатора новостей](https://public.tableau.com/app/profile/aleksandra.selezneva/viz/10_Tableau_17127027633010/sheet22?publish=yes)
+[Дашборд по пользовательским событиям для агрегатора новостей](https://public.tableau.com/views/_17265197745030/sheet18?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Цель проекта
 
